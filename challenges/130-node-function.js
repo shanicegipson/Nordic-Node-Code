@@ -9,7 +9,9 @@
 // if the input number was 2, the result should be 3
 
 module.exports = function (numberOfBoxes) {
-    // YOUR CODE HERE
+    numberOfBoxes = numberOfBoxes / 2;
+    numberOfBoxes = numberOfBoxes += 2;
+    return numberOfBoxes;
 
 }
 
