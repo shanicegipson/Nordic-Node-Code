@@ -6,4 +6,4 @@
 console.log('running 100-example.js This is node!');
 
 // What did you need to type in the terminal in order to run this code?
-// Your answer goes in this comment
+// I typed in node challenges/100-example.js
